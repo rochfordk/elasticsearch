@@ -1,0 +1,5 @@
+node.data: true
+path.data: /data/data
+path.logs: /data/log
+cluster.name: dellops 
+
